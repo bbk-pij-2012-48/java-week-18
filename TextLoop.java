@@ -29,3 +29,4 @@ public class TextLoop implements Runnable {
 		}
 	}
 }
+qweiuy
